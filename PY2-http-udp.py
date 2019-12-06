@@ -7,10 +7,10 @@ import socket
 import random
 
 print "!-------------------------------!"
-print "!    Author  BY  :P3terJ4mes    !"
-print "!    HTTP--UDP FLOODS SOCKET    !"
+print "!    9ggmy by Lotus             !"
+print "!    Discord: Myuu#4057        !"
+print "!    Example: thedomain.com    !"
 print "!    Don'n use Https or Http    !"
-print "!    Example : thedomain.com    !"
 print "!    Enter Ctrl + C for Stop    !"
 print "!-------------------------------!"
 
